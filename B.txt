@@ -1,1 +1,2 @@
 Text for B.txt
+Adding some test for modification.
