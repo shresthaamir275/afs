@@ -1,2 +1,6 @@
 Text for B.txt
+
 Adding some test for modification.
+
+Adding some text staying in githw6-stashing branch
+
